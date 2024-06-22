@@ -26,19 +26,19 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, React Native, Nodejs, Javascrip,HTML,CSS,Laravel,Python,SQL**
+- 🔭 I’m currently working on **React, React Native, Nodejs, Javascrip,HTML,CSS,Laravel,Bootstrap,Python,SQL**
 
 - 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **React Native**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+- 📝 I regularly write on [X](https://x.com/Oklared_Ye)
 
 - 💬 Ask me about **, react, react-native, nodejs, python**
 
 - 📫 Feel free to reach me out **oklared515@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **🤝** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 🏠 Don't hesitate to drop me a **🤝** on X–  [Oklared](https://x.com/Oklared_Ye) my username!
 <!--Intro end-->
 
 
