@@ -32,13 +32,10 @@
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **React Native**
 
-- 📝 I regularly write on [X](https://x.com/Oklared_Ye)
-
 - 💬 Ask me about **, react, react-native, nodejs, python**
 
 - 📫 Feel free to reach me out **oklared515@gmail.com**
 
-- 🏠 Don't hesitate to drop me a **🤝** on X–  [Oklared](https://x.com/Oklared_Ye) my username!
 <!--Intro end-->
 
 
