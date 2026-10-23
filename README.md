@@ -21,9 +21,9 @@
 
 
 # 💫 About Me:
-   🔭 I’m currently working on React, React Native, Nodejs, Javascrip,HTML,CSS,Laravel,Bootstrap,Python,SQL<br><br>    🌱 I’m currently learning to put together multiple Hyper Beast Stack for Scalable Applications.<br><br>  💬 Ask me about , react, react-native, nodejs, python<br><br>    📫 Feel free to reach me out oklared515@gmail.com<br>
+   🔭 I’m currently working on React, React Native, Nodejs, Javascrip,HTML,CSS,Laravel,Bootstrap,Python,SQL<br><br>    🌱 I’m currently learning to put together multiple Hyper Beast Stack for Scalable Applications.<br><br>  💬 Ask me about , react, react-native, nodejs, python<br>
 
-
+   
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Oklared_Ye) 
 
