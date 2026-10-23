@@ -18,31 +18,6 @@
    
 
 
-## 💻 Tech Stack
-
-### `01` — Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=3776AB)
-![PowerShell](https://img.shields.io/badge/PowerShell-161b22?style=flat-square&logo=powershell&logoColor=5391FE)
-
-### `02` — Development
-![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-161b22?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-161b22?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
-![Laravel](https://img.shields.io/badge/Laravel-161b22?style=flat-square&logo=laravel&logoColor=FF2D20)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-161b22?style=flat-square&logo=bootstrap&logoColor=7952B3)
-![MySQL](https://img.shields.io/badge/MySQL-161b22?style=flat-square&logo=mysql&logoColor=4479A1)
-
-### `03` — Environment & Tools
-![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-161b22?style=flat-square&logo=windowsterminal&logoColor=4D4D4D)
-![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=FFFFFF)
-
-### `04` — Creative Tools
-![Adobe Lightroom](https://img.shields.io/badge/Lightroom-161b22?style=flat-square&logo=adobelightroom&logoColor=31A8FF)
-![Lightroom Classic](https://img.shields.io/badge/Lightroom_Classic-161b22?style=flat-square&logo=adobelightroomclassic&logoColor=31A8FF)
-![Canva](https://img.shields.io/badge/Canva-161b22?style=flat-square&logo=canva&logoColor=00C4CC)
 
 ---
 
